@@ -7,13 +7,16 @@ Com o projeto aberto em uma IDE para desenvolvimento Java, clique com o botão d
 
 # End Points
 Método GET:
+
 Para listar todos os planetas utilize a url http://localhost:8080/api/planetas/
 Para buscar um planeta pelo seu id utilize a url http://localhost:8080/api/planetas/id/{id} -> substituir "{id}" pelo id desejado.
 Para buscar um planeta pelo seu nome utilize a url http://localhost:8080/api/planetas/nome/{nome} -> substituir "{nome}" pelo nome desejado.
 
 Método POST:
+
 Para salvar um novo planeta utilize a url http://localhost:8080/api/planetas/
 
 Método DELETE:
+
 Para deletar um planeta utilize a url http://localhost:8080/api/planetas/{id} -> substituir "{id}" pelo id desejado.
 
