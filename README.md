@@ -9,8 +9,11 @@ Com o projeto aberto em uma IDE para desenvolvimento Java, clique com o botão d
 Método GET:
 
 Para listar todos os planetas utilize a url http://localhost:8080/api/planetas/
+
 Para buscar um planeta pelo seu id utilize a url http://localhost:8080/api/planetas/id/{id} -> substituir "{id}" pelo id desejado.
+
 Para buscar um planeta pelo seu nome utilize a url http://localhost:8080/api/planetas/nome/{nome} -> substituir "{nome}" pelo nome desejado.
+
 
 Método POST:
 
